@@ -1,0 +1,4 @@
+repository "YamiTrunkRunner@Yami_Work_Space@cloud"
+  path "/"
+    br "/main"
+    co "/main"
